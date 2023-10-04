@@ -1,0 +1,21 @@
+
+body{
+    font-family: Arial, sans-serif;
+    background-color:black;
+    text-align: center;
+    }
+
+h1 {
+    color:white;
+    }
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    }
+input[type="submit"]{
+    background-color:red
+}
